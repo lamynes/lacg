@@ -1282,10 +1282,12 @@ a {
 .cid-vzOXeKhRg3 a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-caption):hover {
   background-image: none;
 }
-.cid-vzUE6SgDUz {
-  background-color: #edefeb;
+.cid-vzUIFrY80P {
+  padding-top: 11rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/gemini-generated-image-8qp72j8qp72j8qp7.jpg-1376x768.jpg");
 }
-.cid-vzUE6SgDUz .content-head {
+.cid-vzUIFrY80P .content-head {
   max-width: 800px;
 }
 .cid-vzOSzArLwg {

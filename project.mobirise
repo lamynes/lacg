@@ -286,7 +286,7 @@
       "currency": "USD"
     },
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "usedWebp": false,
     "cssOptimize": true,
     "lazyLoad": true,

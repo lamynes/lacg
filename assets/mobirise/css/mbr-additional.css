@@ -783,6 +783,8 @@ a {
 }
 .cid-vzOXeKhRg3 {
   background-color: transparent;
+  z-index: 1000;
+  width: 100%;
 }
 .cid-vzOXeKhRg3 .navbar-dropdown {
   background-color: #cecdc7 !important;
@@ -810,8 +812,10 @@ a {
     transition: all 0s ease 0s;
   }
 }
-.cid-vzOXeKhRg3 .navbar-dropdown {
-  position: relative !important;
+.cid-vzOXeKhRg3 nav.navbar {
+  position: fixed;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .cid-vzOXeKhRg3 .icons-menu-main {
   display: flex;
